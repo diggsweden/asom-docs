@@ -42,6 +42,8 @@ För närvarande är följande myndigheter deltagande:
 - Arbetsförmedlingen
 - Länsstyrelsen
 - Havs- och vattenmyndigheten
+- Skatteverket
+- Boverket
 
 Övriga deltagare har en rådgivande funktion. För närvarande inkluderar detta:
 
