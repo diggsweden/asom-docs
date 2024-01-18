@@ -50,6 +50,7 @@ För närvarande är följande myndigheter deltagande:
 - Intunio
 - Foundation for Public Code
 - Nosad
+- Rise
 
 ## Roadmap
 
