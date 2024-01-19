@@ -47,7 +47,7 @@ För närvarande är följande myndigheter deltagande:
 
 Övriga deltagare har en rådgivande funktion. För närvarande inkluderar detta:
 
-- Intunio
+- Intunio (Medverkar som leverantör åt Havs- och vattenmyndigheten)
 - Foundation for Public Code
 - Nosad
 - Rise
