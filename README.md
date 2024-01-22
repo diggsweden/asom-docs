@@ -44,6 +44,7 @@ För närvarande är följande myndigheter deltagande:
 - Havs- och vattenmyndigheten
 - Skatteverket
 - Boverket
+- Elsäkerhetsverket
 
 Övriga deltagare har en rådgivande funktion. För närvarande inkluderar detta:
 
