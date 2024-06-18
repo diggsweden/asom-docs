@@ -45,6 +45,7 @@ För närvarande är följande myndigheter deltagande:
 - Skatteverket
 - Boverket
 - Elsäkerhetsverket
+- Kronofogdemyndigheten
 
 Övriga deltagare har en rådgivande funktion. För närvarande inkluderar detta:
 
@@ -52,6 +53,7 @@ För närvarande är följande myndigheter deltagande:
 - Foundation for Public Code
 - Nosad
 - Rise
+- Sambruk
 
 ## Roadmap
 
